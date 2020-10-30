@@ -16,3 +16,15 @@ Please check the website for how to use the skin.
 In addition, the creator of the skin is my good friend ArAxAn, and the copyright belongs to him.
 
 The website code is for learning and reference only, please do not use it for commercial purposes.
+
+## 1. ArAxAn Jazgych.jpg
+<img src="">
+
+## 2. ArAxAn Jazgych(asan-vson).jpg
+<img src="">
+
+## 3. ArAxAn Jazgych (kesme).jpg
+<img src="">
+
+## 4. ArAxAn Jazgych (tvz).jpg
+<img src="">
